@@ -2,6 +2,7 @@ a test file
 
 <<<<<<< HEAD
 message one
+<<<<<<< HEAD
 message two
 message three
 =======
@@ -10,3 +11,5 @@ a second text message here
 a third message here
 a fourth message here
 >>>>>>> parent of ba8ab43... Update file1
+=======
+>>>>>>> parent of 77920a1... Update file1
