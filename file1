@@ -1,5 +1,12 @@
 a test file
 
+<<<<<<< HEAD
 message one
 message two
 message three
+=======
+a text message here
+a second text message here
+a third message here
+a fourth message here
+>>>>>>> parent of ba8ab43... Update file1
